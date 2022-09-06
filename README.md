@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @wsa138
+- 👋 Hi, I’m William
 - 👀 I’m interested in learning new things and building projects.
-- 🌱 I’m currently learning wed development through "The Odin Project".
+- 🌱 I’m currently learning web development through "The Odin Project".
 - 💞️ I’m looking to collaborate on any project that will help me expand my web development knowledge.
 - 📫 How to reach me: wsaddesso@gmail.com
 
